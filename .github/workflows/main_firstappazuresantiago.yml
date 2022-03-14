@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'FirstAppAzureSantiago'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_04AF3D29C5914CEFA9A7E503DB0DDA71 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B4911A8D2934E5E9353EDD7B8C4C6E3 }}
           package: .
